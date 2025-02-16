@@ -12,13 +12,13 @@ body {
 
 .container {
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     max-width: 600px;
     width: 100%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     background-color: #f8e4a1;
     border-radius: 10px;
-    margin: 10px;
+    margin: 5px;
 }
 
 h3 {
