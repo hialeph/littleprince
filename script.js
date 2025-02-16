@@ -9,7 +9,7 @@ function getCurrentDate() {
 
 // 제목을 설정하는 함수
 function setTitle() {
-    const titleElement = document.querySelector('h1');
+    const titleElement = document.querySelector('h2');
     titleElement.textContent = `오늘은 ${getCurrentDate()}입니다.`; // 제목 변경
 }
 
